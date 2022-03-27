@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "SJ1-3533NS")(type "Legacy")(uri "${KIPRJMOD}/library/SJ1-3533NS.lib")(options "")(descr ""))
+  (lib (name "Nichicon UUQ1H2R2MCL1GB")(type "Legacy")(uri "${KIPRJMOD}/library/2022-02-20_21-54-07.lib")(options "")(descr ""))
+  (lib (name "EEE-FN1A100R")(type "Legacy")(uri "${KIPRJMOD}/library/EEEFN1A100R.lib")(options "")(descr ""))
+  (lib (name "esp32-wrover-e")(type "Legacy")(uri "${KIPRJMOD}/library/esp32-wrover-e.lib")(options "")(descr ""))
+  (lib (name "NCP167BMX330TBG")(type "Legacy")(uri "${KIPRJMOD}/library/NCP167BMX330TBG.lib")(options "")(descr ""))
+  (lib (name "105017-1001")(type "Legacy")(uri "${KIPRJMOD}/library/105017-1001.lib")(options "")(descr ""))
+  (lib (name "TS07-667-37-BK-260-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/library/TS07-667-37-BK-260-SMT-TR.lib")(options "")(descr ""))
+)

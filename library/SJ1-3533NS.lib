@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SJ1-3533NS
+#
+DEF SJ1-3533NS J 0 40 Y Y 1 L N
+F0 "J" -400 400 50 H V L BNN
+F1 "SJ1-3533NS" -400 -500 50 H V L BNN
+F2 "CUI_SJ1-3533NS" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj1-353xns-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM" 0 0 50 H I L BNN "CUI_PURCHASE_URL"
+F5 "SJ1-3533NS" 0 0 50 H I L BNN "MP"
+F6 "3.5 mm Stereo Jack, 3 Pin Right-Angle, PCB Mount, Full Shield, Metal Bushing" 0 0 50 H I L BNN "DESCRIPTION"
+F7 "None" 0 0 50 H I L BNN "PACKAGE"
+F8 "None" 0 0 50 H I L BNN "PRICE"
+F9 "Unavailable" 0 0 50 H I L BNN "AVAILABILITY"
+F10 "CUI Devices" 0 0 50 H I L BNN "MF"
+DRAW
+P 2 0 0 10 -400 300 -400 -300 N
+P 2 0 0 10 -400 -300 400 -300 N
+P 2 0 0 10 400 -300 400 0 N
+P 2 0 0 10 400 0 400 100 N
+P 2 0 0 10 400 100 400 200 N
+P 2 0 0 10 400 200 400 300 N
+P 2 0 0 10 400 300 -400 300 N
+P 2 0 0 6 400 200 -250 200 N
+P 2 0 0 6 -250 200 -250 150 N
+P 2 0 0 6 -250 150 -225 150 N
+P 2 0 0 6 -225 150 -225 25 N
+P 2 0 0 6 -225 25 -275 25 N
+P 2 0 0 6 -275 25 -275 150 N
+P 2 0 0 6 -275 150 -250 150 N
+P 2 0 0 6 400 100 -75 100 N
+P 2 0 0 6 -75 100 -125 50 N
+P 2 0 0 6 -125 50 -175 100 N
+P 2 0 0 6 400 0 0 0 N
+P 2 0 0 6 0 0 -50 50 N
+P 2 0 0 6 -50 50 -100 0 N
+X ~ 1 600 200 200 L 40 40 0 0 P 
+X ~ 2 600 0 200 L 40 40 0 0 P 
+X ~ 3 600 100 200 L 40 40 0 0 P 
+X SHIELD S1 600 -200 200 L 40 40 0 0 P 
+X SHIELD S2 600 -200 200 L 40 40 0 0 P 
+X SHIELD S3 600 -200 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
