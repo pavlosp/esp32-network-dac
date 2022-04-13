@@ -2281,7 +2281,7 @@
     (uuid ffcae11c-dc9f-4dc7-97de-f297c07ea9ce)
   )
 
-  (text "TODO\nAudio grade caps for analog RC circuit?\nRx Tx header for programming\nPower LED\nMaybe Rx Tx leds\nUSB socket - check schematic\nESD - use MOSFET rather than Shottky diode"
+  (text "TODO\nAudio grade caps for analog RC circuit?\nRx Tx header for programming\nPower LED\nBigger LDO? The one on this is tiny.\nMaybe Rx Tx leds\nUSB-C for power\nESD - use TVS diode"
     (at 19.05 190.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 15f8c8c7-34aa-45c1-b07d-87ede03b0c55)
