@@ -3135,7 +3135,7 @@
     (property "Value" "10uF" (id 1) (at 161.29 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 158.4452 35.56 0)
+    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (id 2) (at 158.4452 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 31.75 0)
@@ -3703,7 +3703,7 @@
     (property "Value" "10uF" (id 1) (at 110.49 34.2899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 107.6452 36.83 0)
+    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (id 2) (at 107.6452 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 106.68 33.02 0)
@@ -4540,12 +4540,12 @@
   )
 
   (symbol (lib_id "Nichicon UUQ1H2R2MCL1GB:UUQ1H2R2MCL1GB") (at 227.33 69.85 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid e5dee374-867d-47f7-b303-ef0dc4f66b9a)
-    (property "Reference" "C3" (id 0) (at 225.5584 73.66 90)
+    (property "Reference" "C3" (id 0) (at 229.87 73.66 90)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Value" "2.2uF UUQ1H2R2MCL1GB" (id 1) (at 221.7484 73.66 90)
+    (property "Value" "2.2uF UUQ1H2R2MCL1GB" (id 1) (at 234.95 73.66 90)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Footprint" "library:UUQ1H2R2MCL1GB" (id 2) (at 223.52 60.706 0)
@@ -4804,7 +4804,7 @@
       (reference "C4") (unit 1) (value "2.2uF UUQ1H2R2MCL1GB") (footprint "library:UUQ1H2R2MCL1GB")
     )
     (path "/0939bf1c-3b01-4a1d-a6fe-f5720dfc5d1d"
-      (reference "C5") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C5") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/2579e624-9923-437c-843d-c0950777b59d"
       (reference "C6") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -4822,7 +4822,7 @@
       (reference "C10") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/56d5cdc5-bc51-4535-98bf-663eff88b79b"
-      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/238b950a-d9b1-4955-86d1-cbfd6f69cac5"
       (reference "C12") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
