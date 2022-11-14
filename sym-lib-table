@@ -7,4 +7,5 @@
   (lib (name "105017-1001")(type "Legacy")(uri "${KIPRJMOD}/library/105017-1001.lib")(options "")(descr ""))
   (lib (name "TS07-667-37-BK-260-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/library/TS07-667-37-BK-260-SMT-TR.lib")(options "")(descr ""))
   (lib (name "USB4510-03-1-A")(type "Legacy")(uri "${KIPRJMOD}/library/USB4510-03-1-A.lib")(options "")(descr ""))
+  (lib (name "UJC-HP-3-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/library/UJC-HP-3-SMT-TR.lib")(options "")(descr ""))
 )
